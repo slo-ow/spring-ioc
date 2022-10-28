@@ -1,6 +1,5 @@
 package com.example.springioc;
 
-import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.stereotype.Component;
 
 import java.util.Base64;
